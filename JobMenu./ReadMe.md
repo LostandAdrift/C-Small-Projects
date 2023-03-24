@@ -9,8 +9,11 @@ Upon running the program, the user will be presented with the following menu:
 
 You Dirty Dog Menu:
 (1) Enter a new job
+
 (2) List all current jobs
+
 (3) Exit
+
 To select an option, simply enter the corresponding number and press enter.
 
 If the user selects option 1, they will be prompted to enter information for a new job. The program will ask for the dog's name, license number, owner's phone number, and the quoted price for the job. The program will also perform error checking on the user's input to ensure that all entered data is valid.
