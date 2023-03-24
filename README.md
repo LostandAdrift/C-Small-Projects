@@ -11,12 +11,13 @@ Each project is contained in its own directory, with its own README file contain
 # Projects
 Here is a list of the projects included in this repository:
 
-Hello World: A simple "Hello World" program that prints a message to the console.
-Calculator: A basic calculator program that can perform addition, subtraction, multiplication, and division.
-Guessing Game: A game where the user tries to guess a randomly generated number.
-Palindrome Checker: A program that checks if a given string is a palindrome.
-Sorting Algorithms: Implementations of various sorting algorithms, including bubble sort, selection sort, insertion sort, and merge sort.
-Contributing
+- Hello World: A simple "Hello World" program that prints a message to the console.
+- Calculator: A basic calculator program that can perform addition, subtraction, multiplication, and division.
+- Guessing Game: A game where the user tries to guess a randomly generated number.
+- Palindrome Checker: A program that checks if a given string is a palindrome.
+- Sorting Algorithms: Implementations of various sorting algorithms, including bubble sort, selection sort, insertion sort, and merge sort.
+ 
+# Contributing
 If you have any ideas for new projects or improvements to existing ones, feel free to open an issue or submit a pull request. I'm always looking for ways to learn and improve my coding skills, and I welcome any feedback or suggestions.
 
 License
