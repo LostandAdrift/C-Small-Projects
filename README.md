@@ -1,10 +1,10 @@
 # C++ Learning Repository
 This repository contains a collection of small C++ projects that I've created to help me learn and improve my coding skills. These projects cover a range of topics and concepts, and are designed to be simple and easy to understand.
 
-#Getting Started
+# Getting Started
 To get started, clone this repository to your local machine.
 
-#Copy code
+# Copy code
 git clone https://github.com/LostandAdrift/cpp-learning.git
 Each project is contained in its own directory, with its own README file containing instructions on how to build and run the project.
 
