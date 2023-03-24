@@ -8,7 +8,7 @@ To get started, clone this repository to your local machine.
 git clone https://github.com/LostandAdrift/cpp-learning.git
 Each project is contained in its own directory, with its own README file containing instructions on how to build and run the project.
 
-#Projects
+# Projects
 Here is a list of the projects included in this repository:
 
 Hello World: A simple "Hello World" program that prints a message to the console.
