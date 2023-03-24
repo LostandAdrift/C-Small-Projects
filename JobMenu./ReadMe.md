@@ -10,7 +10,9 @@ Upon running the program, the user will be presented with the following menu:
 You Dirty Dog Menu: 
 
 (1) Enter a new job
+
 (2) List all current jobs
+
 (3) Exit
 
 To select an option, simply enter the corresponding number and press enter.
