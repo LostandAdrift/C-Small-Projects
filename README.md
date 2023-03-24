@@ -1,15 +1,14 @@
 # C++ Learning Repository
 This repository contains a collection of small C++ projects that I've created to help me learn and improve my coding skills. These projects cover a range of topics and concepts, and are designed to be simple and easy to understand.
 
-Getting Started
-To get started, clone this repository to your local machine:
+#Getting Started
+To get started, clone this repository to your local machine.
 
-bash
-Copy code
-git clone https://github.com/[username]/cpp-learning.git
+#Copy code
+git clone https://github.com/LostandAdrift/cpp-learning.git
 Each project is contained in its own directory, with its own README file containing instructions on how to build and run the project.
 
-Projects
+#Projects
 Here is a list of the projects included in this repository:
 
 Hello World: A simple "Hello World" program that prints a message to the console.
